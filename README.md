@@ -13,8 +13,8 @@
 
 <div align="center">
   <a href="https://github.com/setepele">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=setepele&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=setepele&layout=compact&langs_count=7&theme=gotham"/>
+  <img height="180em" width="42%" src="https://github-readme-stats.vercel.app/api?username=setepele&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=setepele&layout=compact&langs_count=7&theme=gotham"/>
 </div>
 
 <div style="display: inline_block"><br>
@@ -29,5 +29,5 @@
 ##
 
 <div>
-	![Snake animation](https://github.com/setepele/setepele/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/setepele/setepele/blob/output/github-contribution-grid-snake.svg)
 </div>
