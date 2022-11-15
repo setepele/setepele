@@ -18,5 +18,5 @@
 <img align="right" alt="side-gif" height="150" style="border-radius:50px;" src="https://64.media.tumblr.com/06c2539f31f2f6519ed1bdefb9e350e7/88d5e9beb90b5a22-73/s400x600/9bcc0d914962cc47dd9a4d742495749c609f42af.gifv">
 	  
 
-<img width="75%" src="https://github.com/setepele/setepele/blob/output/github-contribution-grid-snake.svg"></a>
+<img width="60%" src="https://github.com/setepele/setepele/blob/output/github-contribution-grid-snake.svg"></a>
 </div>
