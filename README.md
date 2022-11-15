@@ -1,16 +1,5 @@
 ## your world doesn't make sense
 
-<!--
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 <div align="center">
   <a href="https://github.com/setepele">
   <img height="180em" width="42%" src="https://github-readme-stats.vercel.app/api?username=setepele&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
@@ -24,10 +13,9 @@
 	<a href = "https://open.spotify.com/user/31x5y3sfmlbi7tdli3rmzeatukwu?si=4ae9c4a7e3b64caa"><img height="30" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"></a>
 	
 <img align="right" alt="side-gif" height="150" style="border-radius:50px;" src="https://64.media.tumblr.com/06c2539f31f2f6519ed1bdefb9e350e7/88d5e9beb90b5a22-73/s400x600/9bcc0d914962cc47dd9a4d742495749c609f42af.gifv">
+	  
 </div>
 
-##
-
 <div>
-![Snake animation](https://github.com/setepele/setepele/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/setepele/setepele/blob/output/github-contribution-grid-snake.svg)
 </div>
